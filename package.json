@@ -12,7 +12,7 @@
   "author": "Angela Melinda <angela.melinda@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/angelamelinda/react-csvautofill.git"
   },
   "license": "MIT",
   "engines": {
